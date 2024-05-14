@@ -1,0 +1,21 @@
+#start{
+    margin-top: 20px;
+    margin-left: 40%;
+    height: 50px;
+    width: 100px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+#stop{margin-left: 20%;
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(216, 61, 61);
+}
+h1{
+    margin-left: 30%;
+    margin-top: 100px;
+}
